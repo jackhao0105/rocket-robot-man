@@ -4,6 +4,9 @@ function Rocket(name){
 	this.maxFuel = 2000;
 }
 
+Rocket.prototype.fly= function(){
+	console.log("3...2...1... Go")
+}
 
 
 
