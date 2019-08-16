@@ -4,4 +4,4 @@ function Rocket(name){
 
 const rocket1 = new Rocket('Falvin 9');
 
-console.log(rocket1.name);
+module.exports = Rocket;
