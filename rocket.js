@@ -1,7 +1,9 @@
 function Rocket(name){
 	this.name = name;
+	this.staff = []
 }
 
-const rocket1 = new Rocket('Falvin 9');
+
+
 
 module.exports = Rocket;
