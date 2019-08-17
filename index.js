@@ -15,7 +15,7 @@ robot1.control(rocket1);
 try{
 	robot1.control(person1);
 } catch(e) {
-	console.log('Error while Robot want to control Person')
+	console.log('Error while Robot wants to control Person')
 }
 
 console.log(robot1)
