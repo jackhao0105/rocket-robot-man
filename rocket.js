@@ -1,6 +1,7 @@
 function Rocket(name){
 	this.name = name;
-	this.staff = []
+	this.staff = [];
+	this.maxEnergy = 2000;
 }
 
 Rocket.prototype.fly= function(){
