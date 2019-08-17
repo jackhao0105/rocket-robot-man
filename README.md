@@ -1,1 +1,1 @@
-Hello I'm Jack, i wanna on Mars.
+Hello I'm Jack, i wanna die on Mars.
